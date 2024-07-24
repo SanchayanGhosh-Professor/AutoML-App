@@ -128,7 +128,11 @@ pytz==2024.1
 pyviz_comms==3.0.1
 PyWavelets==1.5.0
 pywebview==5.0.4
-pywin32==301
+streamlit
+pandas
+numpy
+# Add other dependencies here
+pywin32; platform_system == "Windows"
 PyYAML==6.0.1
 qtstylish==0.1.5
 referencing==0.33.0
