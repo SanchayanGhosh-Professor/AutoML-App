@@ -184,6 +184,6 @@ wordcloud==1.9.3
 xgboost==1.6.2
 xlrd==2.0.1
 xxhash==3.4.1
-ydata-profiling==4.6.5
+ydata-profiling==4.9.0
 yellowbrick==1.5
 zipp==3.17.0
