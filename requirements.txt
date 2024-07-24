@@ -128,7 +128,7 @@ pytz==2024.1
 pyviz_comms==3.0.1
 PyWavelets==1.5.0
 pywebview==5.0.4
-pywin32==306
+pywin32==301
 PyYAML==6.0.1
 qtstylish==0.1.5
 referencing==0.33.0
